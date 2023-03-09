@@ -1,6 +1,6 @@
 // this is a simple node server that hosts the static files
 
-console.log("testing node")
+console.log("testing node in class")
 
 var express = require('express');
 
